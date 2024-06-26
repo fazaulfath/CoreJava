@@ -1,4 +1,4 @@
-package com.fazaulfath.assignment.employees;
+package com.fazaulfath.assignment1.employees;
 
 /**
  * Represents a developer, which is a type of employee with a programming language.

@@ -1,9 +1,9 @@
-package com.fazaulfath.assignment;
+package com.fazaulfath.assignment1;
 
-import com.fazaulfath.assignment.employees.Developer;
-import com.fazaulfath.assignment.employees.Employee;
-import com.fazaulfath.assignment.employees.Manager;
-import com.fazaulfath.assignment.utilities.EmployeeUtilities;
+import com.fazaulfath.assignment1.employees.Developer;
+import com.fazaulfath.assignment1.employees.Employee;
+import com.fazaulfath.assignment1.employees.Manager;
+import com.fazaulfath.assignment1.utilities.EmployeeUtilities;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.fazaulfath.assignment.employees;
+package com.fazaulfath.assignment1.employees;
 
 /**
  * Represents an employee with a name, employee ID, and salary.

@@ -1,7 +1,8 @@
-package com.fazaulfath.assignment.utilities;
+package com.fazaulfath.assignment1.utilities;
 
-import com.fazaulfath.assignment.employees.Employee;
 import java.util.List;
+
+import com.fazaulfath.assignment1.employees.Employee;
 
 /**
  * Provides utility methods for handling employees.
