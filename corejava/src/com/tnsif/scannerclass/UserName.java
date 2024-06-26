@@ -1,4 +1,4 @@
-package com.tns.scannerclass;
+package com.tnsif.scannerclass;
 
 import java.util.Scanner;
 
