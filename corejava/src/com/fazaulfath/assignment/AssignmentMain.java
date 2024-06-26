@@ -1,3 +1,5 @@
+package com.fazaulfath.assignment;
+
 import com.fazaulfath.assignment.employees.Developer;
 import com.fazaulfath.assignment.employees.Employee;
 import com.fazaulfath.assignment.employees.Manager;
