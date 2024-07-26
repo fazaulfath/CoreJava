@@ -8,7 +8,7 @@ public class NestedTry {
 		int y = 6;
 		try //outer try
 		{
-			//int z = y/0;
+			int z = y/0;
 			System.out.println(arr[0]);
 			System.out.println(str.charAt(y));
 //			try //inner try
