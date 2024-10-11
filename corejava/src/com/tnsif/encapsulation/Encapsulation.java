@@ -1,26 +1,24 @@
+//date: 25-6-24
 //program to demonstrate encapsulation
 package com.tnsif.encapsulation;
 
 public class Encapsulation {
-	//default access specifier
+	//default access specifier - 'default'
 	private int serialNum=10; //data members
-	private String name;
+	private String name; //'S' has to be capital because it is a built-in class in java
 	private int age;
-	// by using getter and setter, we can access private data members
 	
-	
-//	void show() //member function
-//	{
-//		System.out.println("Serial number:" + serialNum + "\t Name:" + name+ "\t Age:" + age);
-//	}
+	void show() //member function; 'System' is a class; 'out' is an obj of 'system' class; 
+	{
+		System.out.println("Serial number:" + serialNum + "\t Name:" + name+ "\t Age:" + age);
+	}
 
-
-	@Override
+	@Override //prints contents of an object in the form of a string
 	public String toString() {
 		return "Encapsulation [serialNum=" + serialNum + ", name=" + name + ", age=" + age + "]";
 	}
 
-
+	// by using getter and setter, we can access private data members
 	public int getSerialNum() //read the value
 	{
 		return serialNum;
